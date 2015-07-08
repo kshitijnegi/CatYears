@@ -10,6 +10,22 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var entredage: UITextField!
+    @IBOutlet weak var showage: UILabel!
+    
+    @IBAction func getage(sender: AnyObject) {
+        
+        var age = entredage.text.toInt()
+        if age != nil{
+        var newage = age! * 7
+        showage.text = "Your cat is \(newage) years old"
+    
+        }
+        else {
+        
+        showage.text = "Enter a number in the box"
+        }
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

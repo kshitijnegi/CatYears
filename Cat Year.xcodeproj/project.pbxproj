@@ -13,6 +13,7 @@
 		334CCC151B4CF71C00AB22F3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 334CCC141B4CF71C00AB22F3 /* Images.xcassets */; };
 		334CCC181B4CF71C00AB22F3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 334CCC161B4CF71C00AB22F3 /* LaunchScreen.xib */; };
 		334CCC241B4CF71C00AB22F3 /* Cat_YearTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 334CCC231B4CF71C00AB22F3 /* Cat_YearTests.swift */; };
+		334CCC2E1B4CFB1A00AB22F3 /* 13902170611226395134cat_png_by_dbszabo1-d3dn2c8.png in Resources */ = {isa = PBXBuildFile; fileRef = 334CCC2D1B4CFB1A00AB22F3 /* 13902170611226395134cat_png_by_dbszabo1-d3dn2c8.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		334CCC1D1B4CF71C00AB22F3 /* Cat YearTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat YearTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		334CCC221B4CF71C00AB22F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		334CCC231B4CF71C00AB22F3 /* Cat_YearTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_YearTests.swift; sourceTree = "<group>"; };
+		334CCC2D1B4CFB1A00AB22F3 /* 13902170611226395134cat_png_by_dbszabo1-d3dn2c8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "13902170611226395134cat_png_by_dbszabo1-d3dn2c8.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				334CCC0D1B4CF71C00AB22F3 /* AppDelegate.swift */,
 				334CCC0F1B4CF71C00AB22F3 /* ViewController.swift */,
 				334CCC111B4CF71C00AB22F3 /* Main.storyboard */,
+				334CCC2D1B4CFB1A00AB22F3 /* 13902170611226395134cat_png_by_dbszabo1-d3dn2c8.png */,
 				334CCC141B4CF71C00AB22F3 /* Images.xcassets */,
 				334CCC161B4CF71C00AB22F3 /* LaunchScreen.xib */,
 				334CCC0B1B4CF71C00AB22F3 /* Supporting Files */,
@@ -194,6 +197,7 @@
 			files = (
 				334CCC131B4CF71C00AB22F3 /* Main.storyboard in Resources */,
 				334CCC181B4CF71C00AB22F3 /* LaunchScreen.xib in Resources */,
+				334CCC2E1B4CFB1A00AB22F3 /* 13902170611226395134cat_png_by_dbszabo1-d3dn2c8.png in Resources */,
 				334CCC151B4CF71C00AB22F3 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
